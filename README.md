@@ -1,2 +1,2 @@
 # Sistemas-operacionais
-algo
+Será estudado sistemas operacionais
