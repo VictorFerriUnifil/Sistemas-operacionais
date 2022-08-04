@@ -1,0 +1,15 @@
+git clone https://github.com/VictorFerriUnifil/Arquitetura-de-Software.git
+
+git clone https://github.com/VictorFerriUnifil/PI.git
+
+git clone https://github.com/VictorFerriUnifil/Controle-de-vers-o.git
+
+git clone https://github.com/VictorFerriUnifil/Sistemas-operacionais.git
+
+git clone https://github.com/VictorFerriUnifil/Paradigmas-de-linguagens-de-programa-o.git
+
+git clone https://github.com/VictorFerriUnifil/Introdu-o-a-banco-de-dados.git
+
+git add .
+git commit -m 'alteração'
+git push
